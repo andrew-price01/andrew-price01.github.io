@@ -191,6 +191,12 @@ html,body {
 .container img {
     margin: 0 auto;
 }
+
+@media (max-width: 468px) {
+    .container {
+        margin: 5% auto;
+    }
+}
 /*
 .arrow-down {
     border: solid black;
