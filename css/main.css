@@ -193,8 +193,8 @@ html,body {
 }
 
 @media (max-width: 468px) {
-    .container {
-        margin: 5% auto;
+    #about {
+        margin: 0;
     }
 }
 /*
